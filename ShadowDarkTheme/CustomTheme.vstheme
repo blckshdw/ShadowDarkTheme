@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="ShadowDarkTheme" GUID="{c98afdc8-5094-4ccc-b745-fb1b89cf37e2}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="ShadowDarkTheme (1)" GUID="{c98afdc8-5094-4ccc-b745-fb1b89cf37e2}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF222224" />
@@ -5914,7 +5914,7 @@
       </Color>
       <Color Name="Line Number">
         <Background Type="CT_RAW" Source="FF22282A" />
-        <Foreground Type="CT_RAW" Source="FF3F4E49" />
+        <Foreground Type="CT_RAW" Source="FF4B5C57" />
       </Color>
       <Color Name="outlining.verticalrule">
         <Background Type="CT_INVALID" Source="00000000" />
