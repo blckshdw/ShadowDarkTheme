@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Shadow Dark Theme (2)" GUID="{4a49d398-64f7-44a0-bdee-753e717bcba7}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="Shadow Dark Theme" GUID="{4a49d398-64f7-44a0-bdee-753e717bcba7}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF222224" />
